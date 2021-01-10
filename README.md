@@ -15,6 +15,7 @@ For this we wrote a Python script that delivers the following information when i
   
   ## Resources
   -Data Source: election_results.csv
+  
   -Software: Python 3.9.1. Visual Studio Code 1.52.1
   
   ## Election-Audit Summary
