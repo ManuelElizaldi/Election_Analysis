@@ -50,8 +50,6 @@ For this we wrote a Python script that delivers the following information when i
     - Denver county with a turnout of 82.8% of the votes and 306,055 number of votes.
     
     ## Challenge Overview
-    
-    ##Chalenge Summary
       - Business proposal: With the objective to automate processes and reduce costs, we can use this script in order to effectively count how many votes each candidate got during elections and determine who was the winner. Likewise, we can analyse how votes where distributed around counties or states. This script was made for an election in the state of Colorado but it has enless potentianl because we can refactor ir to work at the federal level or in other state, we would only need the corresponding data set. 
       
       - Uses for other elections: As stated above, in order to use this script for other elections we would only need the corresponding data set to the election of choice and corroborate that the .csv file's columns and rows are in the correct order for the code to pick up the values as it iterates through the items.
